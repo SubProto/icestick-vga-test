@@ -1,0 +1,14 @@
+set_io b0    119
+set_io b1    118
+set_io g0    117
+set_io g1    116
+set_io r0    115
+set_io r1    114
+set_io hsync 113
+set_io vsync 112
+set_io D1 99
+set_io D2 98
+set_io D3 97
+set_io D4 96
+set_io D5 95
+set_io pclk 21
