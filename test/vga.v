@@ -1,5 +1,6 @@
 // Este comentario lo he añadido yo mismo.
 // adapted from NERP demo vga640x480.v
+// Esta es la tercera linea del archivo.
 
 module vga(
 	input wire pclk,		//pll clock: 25.13MHz
