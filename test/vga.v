@@ -1,6 +1,5 @@
-// Este comentario lo he añadido yo mismo.
 // adapted from NERP demo vga640x480.v
-// Esta es la tercera linea del archivo.
+// Dummy comments are been deleted and now git is alive!
 
 module vga(
 	input wire pclk,		//pll clock: 25.13MHz
