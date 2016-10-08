@@ -1,4 +1,6 @@
 // adapted from NERP demo vga640x480.v
+// Dummy comments are been deleted and now git is alive!
+// Another dummy comment for test purpose only.
 
 module vga(
 	input wire pclk,		//pll clock: 25.13MHz
