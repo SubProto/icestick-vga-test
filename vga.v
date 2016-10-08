@@ -1,3 +1,4 @@
+// Este comentario lo he añadido yo mismo.
 // adapted from NERP demo vga640x480.v
 
 module vga(
